@@ -1,0 +1,193 @@
+{
+    "version": 1.19,
+    "data": {
+        "enabled": true,
+        "stream": false,
+        "lNotice": false,
+        "gNotice": false,
+        "spawnObject": true,
+        "speech": {
+            "enabled": false,
+            "rate": 2,
+            "volume": 100,
+            "gender": "female"
+        },
+        "cc": [
+            "</font><font color=\"#ffff00\">"
+        ],
+        "language": "auto",
+        "dungeons": {
+            "3023": {
+                "name": "Akalath Quarantine",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3026": {
+                "name": "Corrupted Skynest",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3027": {
+                "name": "Forbidden Arena",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3036": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3040": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Lumikan's Trial"
+            },
+            "3042": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Gardan's Trial"
+            },
+            "3043": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Harnovog's Trial"
+            },
+            "3046": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Rogash's Trial"
+            },
+            "3047": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3105": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3108": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Cursed Antaroth's Abyss"
+            },
+            "3109": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3126": {
+                "name": "Corrupted Skynest (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3201": {
+                "name": "Gossamer Vault (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "3209": {
+                "verbose": true,
+                "spawnObject": true
+            },
+            "7011": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Shadow of the Gutrends (Guardian)"
+            },
+            "7015": {
+                "verbose": true,
+                "spawnObject": true,
+                "name": "Escape from Balder's Refuge (Guardian)"
+            },
+            "9044": {
+                "name": "Bahaar's Sanctum",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9056": {
+                "name": "Timescape (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9067": {
+                "name": "Demokron Factory (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9068": {
+                "name": "Shadow Sanguinary (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9735": {
+                "name": "RK-9 Kennel",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9739": {
+                "name": "Red Refuge",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9759": {
+                "name": "Forsaken Island (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9780": {
+                "name": "Velik's Hold (7-Person)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9781": {
+                "name": "Velik's Sanctuary",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9794": {
+                "name": "Thaumetal Refinery",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9920": {
+                "name": "Antaroth's Abyss (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9970": {
+                "name": "Ruinous Manor (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9981": {
+                "name": "Velik's Sanctuary (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            },
+            "9982": {
+                "name": "Grotto of Lost Souls (Hard)",
+                "verbose": true,
+                "spawnObject": true
+            }
+        },
+        "debug": {
+            "chat": true,
+            "all": false,
+            "s": false,
+            "e": false,
+            "am": false,
+            "ae": false,
+            "ab": false,
+            "ar": false,
+            "ad": false,
+            "h": false,
+            "ns": false,
+            "nd": false,
+            "rb": false,
+            "re": false,
+            "dm": false,
+            "qb": false,
+            "ap": false,
+            "af": false,
+            "at": false
+        }
+    }
+}
